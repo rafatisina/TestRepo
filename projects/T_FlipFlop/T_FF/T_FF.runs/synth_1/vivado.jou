@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Dec 26 12:58:47 2020
+# Process ID: 22356
+# Current directory: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/T_FlipFlop/T_FF/T_FF.runs/synth_1
+# Command line: vivado.exe -log T_FFCode.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source T_FFCode.tcl
+# Log file: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/T_FlipFlop/T_FF/T_FF.runs/synth_1/T_FFCode.vds
+# Journal file: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/T_FlipFlop/T_FF/T_FF.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source T_FFCode.tcl -notrace

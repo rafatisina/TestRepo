@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/T_FlipFlop/T_FF/T_FF.srcs/sources_1/new/T_FFCode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module T_FFCode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/T_FlipFlop/T_FF/T_FF.srcs/sim_1/new/TFF_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TFF_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/T_FlipFlop/T_FF/T_FF.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
