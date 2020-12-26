@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Dec 26 02:20:26 2020
+# Process ID: 19304
+# Current directory: C:/Users/rafat/OneDrive/Documents/FPGA/projects/D_flip_flop/DFF_test/DFF_test.runs/synth_1
+# Command line: vivado.exe -log DFF_Test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DFF_Test.tcl
+# Log file: C:/Users/rafat/OneDrive/Documents/FPGA/projects/D_flip_flop/DFF_test/DFF_test.runs/synth_1/DFF_Test.vds
+# Journal file: C:/Users/rafat/OneDrive/Documents/FPGA/projects/D_flip_flop/DFF_test/DFF_test.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DFF_Test.tcl -notrace
