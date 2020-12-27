@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Dec 26 17:17:43 2020
+# Process ID: 21968
+# Current directory: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/counter/counter/counter.runs/synth_1
+# Command line: vivado.exe -log led_blink.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_blink.tcl
+# Log file: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/counter/counter/counter.runs/synth_1/led_blink.vds
+# Journal file: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/counter/counter/counter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source led_blink.tcl -notrace

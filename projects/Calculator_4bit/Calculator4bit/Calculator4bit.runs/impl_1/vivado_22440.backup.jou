@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Dec 26 14:26:26 2020
+# Process ID: 22440
+# Current directory: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/Calculator_4bit/Calculator4bit/Calculator4bit.runs/impl_1
+# Command line: vivado.exe -log Simple_Calculator.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Simple_Calculator.tcl -notrace
+# Log file: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/Calculator_4bit/Calculator4bit/Calculator4bit.runs/impl_1/Simple_Calculator.vdi
+# Journal file: C:/Users/rafat/OneDrive/Documents/FPGA/FPGA/projects/Calculator_4bit/Calculator4bit/Calculator4bit.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Simple_Calculator.tcl -notrace
